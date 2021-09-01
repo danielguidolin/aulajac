@@ -47,7 +47,7 @@ ingress:
     # kubernetes.io/ingress.class: theia-daniel
     # kubernetes.io/tls-acme: "true"
   hosts:
-    - host: daniel.jacstackd.jacexperts.io
+    - host: danielguidolin.jacstackd.jacexperts.io
       paths:
         - path: /
           pathType: ImplementationSpecific

@@ -84,10 +84,6 @@ autoscaling:
   targetCPUUtilizationPercentage: 80
   # targetMemoryUtilizationPercentage: 80
 
-configmap:
-  enable: true
-  name: theia-daniel
-
 nodeSelector: {}
 
 tolerations: []
